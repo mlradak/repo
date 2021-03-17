@@ -23,6 +23,8 @@
 
 print("hello!")
 
+print("hello dodatak!")
+
 
 
 # pravljenje lokalnog repozitorijuma
@@ -30,3 +32,17 @@ print("hello!")
 
 # dodavanje
 # git add .
+
+
+# git init
+
+# dodavanje
+# git add .
+
+# git commit -m "neki opis o komitu"
+
+# git branch -M main
+
+# git remote add origin https://github.com/darkodekan/repo.git
+
+# git push -u origin main
